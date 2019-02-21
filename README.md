@@ -29,10 +29,10 @@ Housing Price Prediction Using Regression
 8. Launch, monitor, and maintain your system.
 
 #### To get a better intuition we'll plot histograms of various attributes.
-![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/histograms.png)
+![Histograms](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/histograms.png)
 
 #### To find hidden patterns we'll analyze correlations among different attributes of our dataset.
-![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/correlations.png)
+![Correlations](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/correlations.png)
 
 
 # Installation
@@ -91,5 +91,5 @@ Great! We are all setup to do some data science and machine learning!
 I would like to thank Aurélien Géron and his wonderful book Machine Learning with ScikitLearn and TensorFlow. I highly recommend this book.
 
 ## Conclusion
-![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/skyline.png)
+![Skyline](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/skyline.jpg)
 At the end of our project we'll be able to derive insights to present to our team. 
