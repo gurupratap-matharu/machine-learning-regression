@@ -14,7 +14,7 @@ Housing Price Prediction Using Regression
 * We'll validate our predictions against our test dataset and conclude our learnings
 
 #### We will learn how to plot density maps
-![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/density.png)
+![DensityMap](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/densitymap.png)
 
 
 #### To do an end-to-end Machine Learning project we need to do the following steps
