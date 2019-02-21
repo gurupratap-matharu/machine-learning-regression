@@ -1,6 +1,10 @@
 Housing Price Prediction Using Regression
 ==========================
 
+![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/header.png)
+
+#### Color density map of housing districts in california
+![California Map](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/california.png)
 
 * A machine learning regression model that is trained on California Housing Prices dataset from the StatLib repository. 
 * We are doing supervised learning here and our aim is to do predictive analysis
@@ -8,6 +12,10 @@ Housing Price Prediction Using Regression
 * Our aim is to play with tools like cross validation, GridSearchCV, Random Forests and Pipelines to reach our goal
 * We'll evaluate the performance of each of our model using RMSE and also tune hyper parameters to further optimize our model
 * We'll validate our predictions against our test dataset and conclude our learnings
+
+#### We will learn how to plot density maps
+![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/density.png)
+
 
 #### To do an end-to-end Machine Learning project we need to do the following steps
 
@@ -20,7 +28,12 @@ Housing Price Prediction Using Regression
 7. Present your solution to the team.
 8. Launch, monitor, and maintain your system.
 
-![California Map](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/california.png)
+#### To get a better intuition we'll plot histograms of various attributes.
+![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/histograms.png)
+
+#### To find hidden patterns we'll analyze correlations among different attributes of our dataset.
+![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/correlations.png)
+
 
 # Installation
 
@@ -76,3 +89,7 @@ Great! We are all setup to do some data science and machine learning!
 ## Note of Thanks
 
 I would like to thank Aurélien Géron and his wonderful book Machine Learning with ScikitLearn and TensorFlow. I highly recommend this book.
+
+## Conclusion
+![Learn Machine learning](https://raw.githubusercontent.com/gurupratap-matharu/machine-learning-regression/master/images/skyline.png)
+At the end of our project we'll be able to derive insights to present to our team. 
